@@ -27,9 +27,9 @@ To request your free widget key contact us at info@fastestlivescores.com
 
 == Installation ==
 
-1 - Download LiveScores.zip
-2 - WordPress>Plugins>Add New>Upload Plugin>Choose File>LiveScores.zip
-3 - GOTO Wordpress>Settings>LiveScores - insert your widget key (If you do not have a widget key, please contact us at info@fastestlivescores.com
+1.  Download LiveScores.zip
+2.  WordPress>Plugins>Add New>Upload Plugin>Choose File>LiveScores.zip
+3.  GOTO Wordpress>Settings>LiveScores - insert your widget key (If you do not have a widget key, please contact us at info@fastestlivescores.com
 
 
 WIDGET IN SIDEBAR (Ability to display multiple widgets)
