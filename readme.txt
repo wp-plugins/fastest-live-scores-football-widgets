@@ -1,11 +1,18 @@
-Fastest Live Scores WordPres Plugin Instructions:
+== Description ==
 
-To be able to display the widgets you must have a Widget Key. 
+Free football widgets for your website. You can use the widget to focus on a specific team or competition. Each widget is configurable to suit your reuqirements. You can choose from any of the following widgets in our plugin:
 
-To get a widget key, please contact us at info@fastestlivescores.com
+- Live Scores 
+- Live League Table
+- Top Goalscorers
+- Match Centre
+- Team's Next Match 
 
+Powered by CrowdScores, our widget cover all the major competitions from across the globe:
 
-INSTALLATION
+To request your free widget key contact us at info@fastestlivescores.com
+
+== Installation ==
 
 1 - Download LiveScores.zip
 2 - WordPress>Plugins>Add New>Upload Plugin>Choose File>LiveScores.zip
@@ -84,7 +91,20 @@ SELECT TEAM - choose team for which you want to display their next match.
 
 If you require any support for the installation or configuration of the widgets, please contact us on info@crowdscores.com
 
+== Frequently Asked Questions ==
 
+= How much does the widget cost?=
 
+Our widgets are free with built-in banner advertising and attribution.
 
+= Why is my widget not working? =
+
+Have you requested your free widget key? If not you can request one by e-mailing us at info@fastestlivescores.com
+
+== Screenshots ==
+
+1. Widget settings - put your widget key here
+2. Placing widget in sidebar and setting parameters
+3. English Premier League Fixtures
+4. Multiple Competition Results
 
