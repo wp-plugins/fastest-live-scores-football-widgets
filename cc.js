@@ -1,0 +1,1 @@
+  (function(a,b,c,d,e,f){e=a.createElement(b),  f=a.getElementsByTagName(b)[0]; e.src=c; e.id=d; f.parentNode.insertBefore(e,f)})(document,'script','https://widgets.crowdscores.com/static/js/widgets.js','crowdscores-widget-js');
