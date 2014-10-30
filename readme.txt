@@ -1,6 +1,6 @@
 == Description ==
 
-Free football widgets for your website. You can use the widget to focus on a specific team or competition. Each widget is configurable to suit your reuqirements. You can choose from any of the following widgets in our plugin:
+Free football widgets for your website. You can use the widget to focus on a specific team or competition. Each widget is configurable to suit your requirements. You can choose from any of the following widgets in the plugin:
 
 - Live Scores 
 - Live League Table
