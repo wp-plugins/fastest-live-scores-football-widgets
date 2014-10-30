@@ -1,6 +1,19 @@
+=== Fastest Live Scores - Football Widgets ===
+
+Contributors: fastestlivescores
+Donate link: n/a
+Tags: epl, premier league, manchester united, liverpool, barcelona, arsenal, chelsea, Manchester city, football, live scores, soccer, la liga, bundesliga, real madird, serie a
+Requires at least: 3.0.1
+Tested up to: 4,0
+Stable tag: 4.3
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Live football widgets for major competitions. Live scores, fixtures, results, league tables, match centres....
+
 == Description ==
 
-Free football widgets for your website. You can use the widget to focus on a specific team or competition. Each widget is configurable to suit your requirements. You can choose from any of the following widgets in the plugin:
+Free football widgets for your website. You can use the widget to focus on a specific team or competition. Each widget is configurable to suit your reuqirements. You can choose from any of the following widgets in our plugin:
 
 - Live Scores 
 - Live League Table
