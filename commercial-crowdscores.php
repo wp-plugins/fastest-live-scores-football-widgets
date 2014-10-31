@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: CrowdScores
+ * Plugin Name: Fastest Live Scores - Football Widgets
  * Plugin URI: http://fastestlivescores.com
  * Description: Live football widgets for major competitions. Live scores, fixtures, results, league tables, match centres....
  * Author: http://fastestlivescores.com
