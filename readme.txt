@@ -13,7 +13,7 @@ Live football widgets for major competitions. Live scores, fixtures, results, le
 
 == Description ==
 
-Free football widgets for your website. You can use the widget to focus on a specific team or competition. Each widget is configurable to suit your reuqirements. You can choose from any of the following widgets in our plugin:
+Free football widgets for your website. You can use the widget to focus on a specific team or competition. Each widget is configurable to suit your requirements. You can choose from any of the following widgets in our plugin:
 
 - Live Scores 
 - Live League Table
@@ -27,8 +27,8 @@ To request your free widget key contact us at info@fastestlivescores.com
 
 == Installation ==
 
-1.  Download LiveScores.zip
-2.  WordPress>Plugins>Add New>Upload Plugin>Choose File>LiveScores.zip
+1.  Download fastest-live-scores-football-widgets.zip
+2.  WordPress>Plugins>Add New>Upload Plugin>Choose File>fastest-live-scores-football-widgets.zip
 3.  GOTO Wordpress>Settings>LiveScores - insert your widget key (If you do not have a widget key, please contact us at info@fastestlivescores.com
 
 
