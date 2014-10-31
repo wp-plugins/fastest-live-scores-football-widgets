@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: Fastest Live Scores
- * Plugin URI: http://fastestlivescores.com
- * Description: Fast live football scores for your website. Visit our website to get your free widget key now (http://fastestlivescores.com). See readme.txt for full instructions. Click on Live Scores in Wordpress settings to setup your widgets. 
+ * Plugin Name: CrowdScores
+ * Plugin URI: http://commercial.crowdscores.com
+ * Description: Fast live football scores for your website. Visit our website to get your free widget key now. Click on Live Scores in Wordpress settings to setup your widgets. .
  * Version: 1.0 Beta
- * Author: http://fastestlivescores.com
- * Author URI: http://fastestlivescores
+ * Author: http://commercial.crowdscores.com
+ * Author URI: http://commercial.crowdscores.com
  * License: A "Slug" license name e.g. GPL2
  */
  /*-----------------------------------Plugin admin options-------------------------------------------*/
