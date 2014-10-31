@@ -28,7 +28,7 @@ add_action( 'admin_menu', 'admin_settings' );
 /*-----------------------------------------------custom functionality to include the js----------------------------------------*/
 
 function cc_scripts() {	
-	wp_enqueue_script( 'core_table', plugins_url() . '/LiveScores/cc.js', array(), '1.0.0', false );
+	wp_enqueue_script( 'core_table', plugin_dir_url( __FILE__ ) . 'cc.js', array(), '1.0.0', false );
 }
 add_action( 'wp_enqueue_scripts', 'cc_scripts' );
 
