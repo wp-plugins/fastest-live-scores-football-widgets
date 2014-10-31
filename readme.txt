@@ -1,4 +1,4 @@
-=== Fastest Live Scores - Football Widgets ===
+=== CrowdScores ===
 
 Contributors: fastestlivescores
 Donate link: n/a
