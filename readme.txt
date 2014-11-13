@@ -3,6 +3,7 @@
 Contributors: fastestlivescores
 Donate link: n/a
 Tags: epl, premier league, manchester united, liverpool, barcelona, arsenal, chelsea, Manchester city, football, live scores, soccer, la liga, bundesliga, real madird, serie a
+Version: 1.0
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: 4.3
@@ -23,7 +24,7 @@ Free football widgets for your website. You can use the widget to focus on a spe
 
 Powered by CrowdScores, our widgets cover all the major competitions from across the globe.
 
-To request your free widget key contact us at info@fastestlivescores.com
+To request your free widget key contact us at info@fastestlivescores.com Please include your website URL in the widget key request.
 
 == Installation ==
 

@@ -3,6 +3,7 @@
  * Plugin Name: Fastest Live Scores - Football Widgets
  * Plugin URI: http://fastestlivescores.com
  * Description: Live football widgets for major competitions. Live scores, fixtures, results, league tables, match centres....
+ * Version: 1.0
  * Author: http://fastestlivescores.com
  * Author URI: http://fastestlivescores.com
  * License: A "Slug" license name e.g. GPL2
