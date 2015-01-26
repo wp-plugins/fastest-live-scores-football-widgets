@@ -24,13 +24,13 @@ Free football widgets for your website. You can use the widget to focus on a spe
 
 Powered by CrowdScores, our widgets cover all the major competitions from across the globe.
 
-To request your free widget key contact us at info@fastestlivescores.com Please include your website URL in the widget key request.
+This is a free plugin with advertising. NO WIDGET KEY is required for the free version of the plugin. You can upgrade for a small fee to remove the advertising, you can contact us on info@fastestlivescores.com to get your widget key for the premium version.
 
 == Installation ==
 
 1.  Download fastest-live-scores-football-widgets.zip
 2.  WordPress>Plugins>Add New>Upload Plugin>Choose File>fastest-live-scores-football-widgets.zip
-3.  GOTO Wordpress>Settings>LiveScores - insert your widget key (If you do not have a widget key, please contact us at info@fastestlivescores.com
+3.  GOTO Wordpress>Settings>LiveScores - leave widget key blank for free (advert supported) version of the plugin.  (If you would like to upgrade and remove the advertising, contact us for your widget key, please contact us at info@fastestlivescores.com)
 
 
 WIDGET IN SIDEBAR (Ability to display multiple widgets)
