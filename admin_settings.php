@@ -1095,9 +1095,9 @@
 			<th scope="row">Widget Key</th>        
 			<td>			
 				<input type="text" style="width:300px;" name="cc_group_setting[key]" value="<?php echo $cc_settings['key']; ?>" />			
-				<span style="text-align:right;">Don't have a widget Key! <a href="http://commercial.crowdscores.com/contact/"  class="button">Contact Us</a></span>	
+				<span style="text-align:right;">Free plugin. No Widget Key Required<a href="http://commercial.crowdscores.com/contact/"  class="button">Contact Us</a></span>	
 				<span>
-					<p>Please enter a widget key which will be used for all widgets.</p>
+					<p>You can upgrade for a small fee to remove the advertising, you can contact us to get your widget key for the premium version.</p>
 				</span>				
 			</td>
 		</tr>
